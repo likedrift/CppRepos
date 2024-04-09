@@ -1,0 +1,2 @@
+2024-03-12 21:34:31,209 sub1 [NOTICE] notice message.
+2024-03-12 21:34:31,209 sub1 [INFO] info message.

@@ -1,0 +1,25 @@
+2024-03-14 20:26:18,950 mycat [WARN] warn msg
+2024-03-14 20:27:23,844 mycat [WARN] warn msg
+2024-03-14 20:27:23,845 mycat [NOTICE] notice msg
+2024-03-14 20:27:23,845 mycat [INFO] info msg
+2024-03-14 20:27:23,845 mycat [DEBUG] debug msg
+2024-03-14 20:28:46,590 mycat [WARN] warn msg
+2024-03-14 20:28:46,591 mycat [NOTICE] notice msg
+2024-03-14 20:28:46,591 mycat [INFO] info msg
+2024-03-14 20:28:46,591 mycat [DEBUG] debug msg
+2024-03-14 20:29:12,445 mycat [WARN] warn msg
+2024-03-14 20:29:12,445 mycat [NOTICE] notice msg
+2024-03-14 20:29:12,445 mycat [INFO] info msg
+2024-03-14 20:29:12,445 mycat [DEBUG] debug msg
+2024-03-14 20:29:12,446 mycat [WARN] [log4cppTest.cpp:test02:19][log4cppTest.cpp:test02:19]LogWarn
+2024-03-14 20:29:12,446 mycat [NOTICE] [log4cppTest.cpp:test02:20][log4cppTest.cpp:test02:20]LogNotice
+2024-03-14 20:29:12,446 mycat [INFO] [log4cppTest.cpp:test02:21][log4cppTest.cpp:test02:21]LogInfo
+2024-03-14 20:29:12,446 mycat [DEBUG] [log4cppTest.cpp:test02:22][log4cppTest.cpp:test02:22]LogDebug
+2024-03-14 20:30:04,058 mycat [WARN] warn msg
+2024-03-14 20:30:04,058 mycat [NOTICE] notice msg
+2024-03-14 20:30:04,058 mycat [INFO] info msg
+2024-03-14 20:30:04,058 mycat [DEBUG] debug msg
+2024-03-14 20:30:04,058 mycat [WARN] [log4cppTest.cpp:test02:19]LogWarn
+2024-03-14 20:30:04,058 mycat [NOTICE] [log4cppTest.cpp:test02:20]LogNotice
+2024-03-14 20:30:04,058 mycat [INFO] [log4cppTest.cpp:test02:21]LogInfo
+2024-03-14 20:30:04,058 mycat [DEBUG] [log4cppTest.cpp:test02:22]LogDebug
