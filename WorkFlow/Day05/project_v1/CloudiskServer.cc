@@ -234,7 +234,7 @@ void CloudiskServer::loadUserRegisterModule()
             string encodedPassword(crypt(password.c_str(), salt.c_str()));
             cout << "mi wen:" << encodedPassword << endl;
             //将用户信息存储到数据库MySQL中
-            string mysqlurl("mysql://root:123@localhost");
+            string mysqlurl("mysql://root:123456@localhost");
             auto mysqlTask = WFTaskFactory::create_mysql_task(mysqlurl, 1, std::bind(&CloudiskServer::mysqlCallbackForRegister, resp, std::placeholders::_1));
             string sql("INSERT INTO cloudisk.tbl_user(user_name, user_pwd) VALUES('");
             sql += username + "', '" + encodedPassword + "')";
